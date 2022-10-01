@@ -1,0 +1,7 @@
+
+.box{
+    height: 350px;
+    width: 350px;
+    background-color: blueviolet;
+    transition-duration: 0.5s;
+}
